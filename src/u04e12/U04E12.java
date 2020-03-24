@@ -1,7 +1,7 @@
 
 package u04e12;
 
-/import java.util.Scanner;
+import java.util.Scanner;
 public class U04E12 {
 
     public static void main(String[] args) {
